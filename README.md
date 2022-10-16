@@ -1,0 +1,1 @@
+Rabbitmq 使用请参考 [Rabbitmq 使用](https://github.com/water-law/blogs/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F%E9%AB%98%E5%B9%B6%E5%8F%91/%E5%88%86%E5%B8%83%E5%BC%8F%E6%B6%88%E6%81%AF%E4%B8%AD%E9%97%B4%E4%BB%B6/RabbitMq/RabbitMq.md)
